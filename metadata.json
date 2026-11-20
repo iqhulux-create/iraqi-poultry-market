@@ -1,0 +1,6 @@
+{
+  "name": "سوق الدواجن والطيور العراقي",
+  "description": "منصة سوق الدواجن والطيور والأعلاف في العراق مع تصدير كود Android XML جاهز للاستخدام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
